@@ -2,7 +2,7 @@
 
 # <p align=center>IMM-MOT</p> 
 
-![cover](pic\cover.png)
+![cover](pic/cover.png)
 
 ## 📢News
 
