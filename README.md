@@ -2,7 +2,7 @@
 
 # <p align=center>IMM-MOT</p> 
 
-![image-20250619165001988](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250619165001988.png)
+![cover](pic\cover.png)
 
 ## 📢News
 
