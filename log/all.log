@@ -1,0 +1,27 @@
+2025-07-22 09:32:00,992 - INFO - ************************NEW SESSION START************************
+2025-07-22 09:32:00,993 - INFO - ------------------------------
+2025-07-22 09:32:00,993 - INFO - MOT START ---- detection data/detector/val/val_centerpoint.json -- result at result/Tue_Jul_22_09:32:00_2025
+2025-07-22 10:54:27,609 - INFO - MOT END ---- detection data/detector/val/val_centerpoint.json -- result at result/Tue_Jul_22_09:32:00_2025
+2025-07-22 10:54:27,609 - INFO - EVAL START ---- detection data/detector/val/val_centerpoint.json -- result from result/Tue_Jul_22_09:32:00_2025 -- eval at result/Tue_Jul_22_09:32:00_2025
+2025-07-22 11:09:03,202 - INFO - ************************NEW SESSION START************************
+2025-07-22 11:09:03,203 - INFO - ------------------------------
+2025-07-22 11:09:03,203 - INFO - MOT START ---- detection data/detector/val/val_centerpoint.json -- result at result/Tue_Jul_22_11:09:03_2025
+2025-07-22 11:30:20,260 - INFO - EVAL END ---- detection data/detector/val/val_centerpoint.json -- result from result/Tue_Jul_22_09:32:00_2025 -- eval at result/Tue_Jul_22_09:32:00_2025
+2025-07-22 11:30:20,270 - INFO - ------------------------------
+2025-07-22 11:35:11,566 - INFO - MOT END ---- detection data/detector/val/val_centerpoint.json -- result at result/Tue_Jul_22_11:09:03_2025
+2025-07-22 11:35:11,567 - INFO - EVAL START ---- detection data/detector/val/val_centerpoint.json -- result from result/Tue_Jul_22_11:09:03_2025 -- eval at result/Tue_Jul_22_11:09:03_2025
+2025-07-22 12:07:22,029 - INFO - EVAL END ---- detection data/detector/val/val_centerpoint.json -- result from result/Tue_Jul_22_11:09:03_2025 -- eval at result/Tue_Jul_22_11:09:03_2025
+2025-07-22 12:07:22,029 - INFO - ------------------------------
+2025-07-22 12:36:47,262 - INFO - ************************NEW SESSION START************************
+2025-07-22 12:36:47,262 - INFO - ------------------------------
+2025-07-22 12:36:47,262 - INFO - MOT START ---- detection data/detector/val/val_centerpoint.json -- result at result/Tue_Jul_22_12:36:47_2025
+2025-07-22 15:19:18,410 - INFO - ************************NEW SESSION START************************
+2025-07-22 15:19:18,411 - INFO - ------------------------------
+2025-07-22 15:19:18,411 - INFO - MOT START ---- detection data/detector/val/val_centerpoint.json -- result at result/Tue_Jul_22_15:19:18_2025
+2025-07-22 16:27:03,471 - INFO - ************************NEW SESSION START************************
+2025-07-22 16:27:03,481 - INFO - ------------------------------
+2025-07-22 16:27:03,481 - INFO - MOT START ---- detection data/detector/val/val_centerpoint.json -- result at result/Tue_Jul_22_16:27:03_2025
+2025-07-22 16:51:08,419 - INFO - MOT END ---- detection data/detector/val/val_centerpoint.json -- result at result/Tue_Jul_22_16:27:03_2025
+2025-07-22 16:51:08,419 - INFO - EVAL START ---- detection data/detector/val/val_centerpoint.json -- result from result/Tue_Jul_22_16:27:03_2025 -- eval at result/Tue_Jul_22_16:27:03_2025
+2025-07-22 17:23:15,699 - INFO - EVAL END ---- detection data/detector/val/val_centerpoint.json -- result from result/Tue_Jul_22_16:27:03_2025 -- eval at result/Tue_Jul_22_16:27:03_2025
+2025-07-22 17:23:15,699 - INFO - ------------------------------
